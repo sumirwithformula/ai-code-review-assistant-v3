@@ -1,0 +1,7 @@
+diff --git a/example.py b/example.py
+index abcdef..123456 100644
+--- a/example.py
++++ b/example.py
+@@ -20,4 +20,4 @@ def get_user_by_name(conn, name):
+-    cursor.execute("SELECT * FROM users WHERE name = '" + name + "'")
++    cursor.execute("SELECT * FROM users WHERE name = '" + name + "'")

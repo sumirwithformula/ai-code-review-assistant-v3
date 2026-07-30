@@ -1,0 +1,7 @@
+diff --git a/example.py b/example.py
+index abcdef..123456 100644
+--- a/example.py
++++ b/example.py
+@@ -15,4 +15,4 @@ def get_name(user):
+-    return user.name   # missing null check
++    return user.name

@@ -1,0 +1,8 @@
+diff --git a/example.py b/example.py
+index abcdef..123456 100644
+--- a/example.py
++++ b/example.py
+@@ -1,4 +1,4 @@
+ def add(a, b):
+-    return a + b
++    return a + b  # no change
